@@ -6,7 +6,7 @@
  * MORE INFO CAN BE FOUND AT https://github.com/MarketingPipeline/Media-Card-Web-Component/
 */
 import "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0features=Array.prototype.map,fetch,Promise";
-import "https://unpkg.com/construct-style-sheets-polyfill";
+import "construct-style-sheets-polyfill";
 
 const mainSheet = new CSSStyleSheet()
 mainSheet.replaceSync(`/*compress*/
